@@ -1,4 +1,4 @@
-# Simple Counter App
+# Simple Counter App with HTML & JS
 
 A basic counter application to increment, decrement, or reset the counter value.
 
